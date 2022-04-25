@@ -27,8 +27,6 @@ while
 do
 nested
 
-
-
 switch
 
 conio.h(3 get)
