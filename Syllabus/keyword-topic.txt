@@ -1,0 +1,34 @@
+printf
+scanf
+
+operators all
+Arithmetic 	(+, -, *, /, %)
+short hand 	(++, --) 2 types
+assingment  (+=)
+
+relational 	(==, !=, >, <, >=,<=)
+logical	   	(&&, ||, !)
+
+misc		(sizeof(), &, *, ?:)
+
+variable(Diffrent styles)
+
+if
+else
+else if
+nested
+
+goto
+break
+continue
+
+for
+while
+do
+nested
+
+
+
+switch
+
+conio.h(3 get)

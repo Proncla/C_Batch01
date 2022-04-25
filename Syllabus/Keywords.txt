@@ -1,0 +1,62 @@
+
+
+signed 			normal size
+unsigned		double size
+
+
+volatile
+auto 
+
+register 		data store on cpu
+
+static 			one time dec 
+const 			never change
+
+short 			datatype
+int 			datatype
+double			datatype
+float 			datatype
+long 			datatype
+char 			datatype
+void			datatype
+
+
+if 				
+else 			
+
+
+for 			loop 
+while			loop
+do 				loop
+switch			
+
+
+case 			relative of switch
+
+
+continue 		control
+goto 			control
+break 			control
+
+
+return 			exit
+
+
+
+enum 
+typedef
+union
+
+sizeof 
+
+default 
+extern 
+struct 
+_Packed
+
+
+
+
+
+
+

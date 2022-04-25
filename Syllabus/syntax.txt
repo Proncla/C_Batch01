@@ -1,0 +1,33 @@
+Define: 	printf is used to print text on screen
+Function: 	printf
+
+Syntax:
+	printf("text and format specifier", variable_name );
+	
+Ex:
+	printf("your name is %s",name);
+	
+Define:		Scanf is used to get the input from the user
+Function: 	scanf
+
+Syntax:
+	scanf("Only format specifier",&variable_name)
+	///& Symbol is used to give address of variable
+	
+Ex:
+	scanf("%s",&name);	
+	
+	Result : get some value from user and print on screen
+	
+	
+	
+	
+Define: variable is use to store value on memory 
+so we can manilupate data
+
+function: datatypes
+
+Syntax: datatype variable_name;
+
+Ex: int info;
+

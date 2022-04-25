@@ -1,0 +1,35 @@
+Variable : giving a single name to the memory address of computer ram
+
+Syntax:
+	declare
+		Datatype variable_name;
+		Datatype variable_name[size]; ///  for string
+	
+	Initialize
+		variable_name = value;
+		variable_name = "value";
+		variable_name = 'v';
+		
+	dec + ini
+		Datatype variable_name = value;
+		Datatype variable_name[size] = "value";
+		Datatype variable_name = 'v';
+	
+	
+Ex:
+	declare
+		int pin;
+		char name;
+		
+	Initialize
+		pin = 100;
+		name = "ari";
+		name = 'a';
+		
+	dec + ini
+		int pin = 123;
+		char name[3] = "ari";
+		char name = 'a';
+	
+		
+	

@@ -1,0 +1,9 @@
+Define: 	printf is used to print text on screen
+Function: 	printf
+
+Syntax:
+	printf("text and format specifier", variable_name );
+	
+Ex:
+	printf("your name is %s",name);
+	

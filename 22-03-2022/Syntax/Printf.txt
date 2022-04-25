@@ -1,0 +1,27 @@
+Printf: Printf is used for giving output to the user on the console
+
+Syntax:
+
+	printf(parameter, parameter, parameter);
+
+
+	Ex
+	
+	printf("Hello %d World %d student is absent: %s" 
+			,     _I_age,  45 + 65,              "Himani");
+	
+	
+	
+			Text, variables, arithmetic 
+			"Hello World"
+			_I_age
+			_I_age + 25 Or 45 + 65
+			
+			
+			
+			'H'
+			Hello
+			
+			
+
+	

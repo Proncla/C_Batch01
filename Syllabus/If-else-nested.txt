@@ -1,0 +1,40 @@
+If
+
+
+If
+else
+
+
+If
+Else if
+else
+
+switch
+
+
+nested
+
+
+int pass = 123;
+
+	if(pass == 123 )
+	{
+		
+	}
+	
+	else if(pass >= 123)
+	{
+		
+	}
+	
+	else if(pass <= 123)
+	{
+	
+	}
+	
+	else
+	{
+		
+	}
+	
+	

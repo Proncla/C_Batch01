@@ -1,0 +1,60 @@
+ASCII TABLE PROGRAM
+DATA TYPE SIZE PROGRAM
+calculator program
+GCC  = define
+x86 toolchein
+manual cmd gcc
+
+MICROPROCECOR
+MICROCONTROLER
+
+syntax all
+d
+
+Header
+esc seq
+storage size
+pointer
+array
+conio.h (3)
+include<>
+include""
+NULL - \0
+initialize-declare
+''-""
+
+
+
+
+
+
+statement work in function
+
+keyword linked to header
+
+
+source code path need to be short
+
+
+
+
+
+
+
+
+
+
+
+Hello, World!
+
+
+
+
+-	_	%	&	#
+
+Abc
+abc
+
+A = 65
+
+a = 97

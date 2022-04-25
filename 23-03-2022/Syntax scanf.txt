@@ -1,0 +1,25 @@
+Scanf: scanf is used for taking input from the user on the console/terminal
+
+Syntax: 
+	scanf("%fs",&variable);
+
+Ex:
+	scanf("%d %i %c %s",&N ,&I, &Ch, &S);
+	
+	%fs
+	&A
+	
+	_I_Age
+	_I_Phone
+	_I_Pin
+	
+	age
+	phone
+	pin
+	
+	Age
+	Phone
+	Pin
+	
+	char Age;
+	int A=123;
