@@ -1,4 +1,4 @@
-/*return_datatype function_name() <- clue to know this is a function
+/*return_datatype function_name(parameter) <- clue to know this is a function
 {
     variable here
 
@@ -17,13 +17,15 @@ int cal_add(int v1,int v2)
 }
 
 /*
-void fun(void);     /// no parameter & return values
+int i
+return_datatype function_name(parameter)
+void            fun          (void);     /// no parameter & return values
 
-int fun(int);       /// parameter  + return values
+int             fun          (int);       /// parameter  + return values
 
-int fun(void);      ///no parameter but return values
+int             fun          (void);      ///no parameter but return values
 
-void fun(int);      ///parameter but no return values
+void            fun          (int);      ///parameter but no return values
 
 fun();      ///Auto parameter return values
 */
