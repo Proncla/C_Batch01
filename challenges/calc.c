@@ -12,6 +12,8 @@ void sub(float v1, float v2);
 void mult(float v1, float v2);
 void dive(float v1, float v2);
 
+void greeting();
+
 
 
 int main()
