@@ -1,0 +1,35 @@
+IMP syllabus
+
+Variable			Vari-able 
+Datatypes			type of data and how to store that data
+
+IO function
+Printf (formatted o/p)		format specifier
+Scanf
+
+Decision making
+If
+Else
+
+Loop
+For
+While
+Do
+
+Operator
+Arithmetic
+Logical
+Relational
+Ternary			( ? : )
+Increment and decrement		(565+1 - 565++)
+shorthand		(Apple += mango)
+
+Structure
+Array
+Pointer
+
+Conio.h
+Getch
+Getche
+Getchar
+Putchar
