@@ -1,15 +1,19 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-
 int main()
 {
     char name[7]="apple";
 
+    char * change =&name[0];
 
-    char * change =&name;
-    printf("%s\n",name);
+    for(int i = 0; i<4;i++)
+    {
+        *change=NULL;
+        change++;
+    }
 
-    name[4]= 'r';
+
+    *change = 'R';
     printf("%s\n",name);
 }

@@ -9,6 +9,8 @@ struct std
 
 int main()
 {
+    /// dot operator used to access members of structure
+    ///stds[1].name = "tiago";
     for(int i=0;i<MAX;i++)
     {
         printf("\nAdd new student entry : %d",i);

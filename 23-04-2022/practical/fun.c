@@ -7,8 +7,12 @@
     return here if required
 }*/
 
+///fun();
+
+
 int cal_add(int v1,int v2)
 {
+
     int vA;
 
     vA = v1 + v2;
