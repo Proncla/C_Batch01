@@ -1,0 +1,269 @@
+1. 	What is array
+
+Array is a collection of data under single name
+
+2.	What is pointer
+->                pointer is define as the keyword which is use to point or replace to any place with any word in programme excluding keyword.
+
+
+3. 	What is getche();
+->                 getche(); is used to store single character in programme by first printing its value.
+	getche is used to get a single character from the user and also print on screen
+
+
+4.	Define variable
+->                Variable is a name given to a storage area.
+e.g: it is used in printf as a parameter.
+	LIKE store someone's age in variable called age and there value is 20;
+
+
+5.	What is the syntax of pointer
+	datatype * pointer_name;
+
+6.	What is the difference between #include < > and #include " "?
+it is used to find required file in root directory	<>
+it is used to find required file in current working directory    ""
+
+
+8.	The default case is necessary to use in switch statement?
+false
+
+
+
+9.	What happens if break keyword is not included after the case body?
+it will run all body after that case
+
+
+
+
+
+
+
+11.	Can you make a variable const
+YEs
+
+
+
+
+13.	What is the limitation of ternary operator, comparing with if statement?
+Ternary operator cannot be devided into multiple lines
+
+
+
+14.	what is the use of sizeof();			size of ____
+sizeof is used to get the size required by any item 
+
+
+
+15.	What are the difference among getch(),getche(),getchar()
+getch just get a single character 
+getche get a single character and also echo on screen 
+getchar required enter key to stop
+
+
+
+
+16.	How many types of errors you know in C language?
+runtime error
+compile time error
+
+
+
+
+17.What are the advantages & disadvantages of using pointers in C?
+1:	pointer used to access a value store in ram just by using there memory address
+
+
+
+2:	pointer is insecure
+
+
+
+
+
+
+18.	What is a null pointer
+
+it point no where 
+it point nothing
+it point empty
+
+
+
+19.	What is a Macro?
+
+
+macro is a proccess replace a word by a value
+
+
+20.	What are caller and cally functions?
+caller is a function used to call another fun
+cally	A fun which we call always
+
+
+
+
+21.	Difference b/w Entry controlled and Exit controlled loop?
+
+
+we define a condition to get into a loop
+we define a condition to get out of loop
+
+
+
+
+22.	 Which loop statement is executed at least once even loop test condition if false?
+do while
+
+
+
+
+23.	 which keyword used to  jump up side or  down side in C Language 
+goto
+
+
+
+
+
+24.	What is infinite loop?
+it execute always
+
+
+8.	What is an lvalue and rvalue?
+l = r
+l value is can be a vari where we store a value
+r value is a is a ability who we can copy that value in left side value
+
+
+
+
+
+
+1.	what is the limit of unsigned char
+255
+
+
+
+
+2.	what is the size of int 
+it depend on compiler 
+sometime it 2 bytes and some times byte
+
+
+
+
+
+
+3.	What is a void
+it represent nothing
+
+
+
+
+1.	write a program to print "Welcome Sir" and print it 10 times using for
+	printf("Welcome Sir");
+
+
+for(int i = 0;i<10;i++)
+{
+	printf("Welcome Sir");
+}
+
+
+2.	create a variable to store mobile number
+char mobile[10] = "4562356956" ;
+
+
+
+
+
+
+
+1.	why we call c , c 
+because there allready a programming language called b
+so they continue the order
+
+
+2.	what is the full form of K/R standard
+kernighan and ritchee
+3.	what is inside of k/r standard
+in has full decription on c in k and  r
+4.	What is full form of AT & T lab ?
+	american telegraph and thelephone
+
+
+5.	What is full form of ANSI?
+american national standard institude
+6.	What is full form of ASCII?
+American Standard Code for information interchange
+
+
+	True or false
+1.1	c language is a high level language
+	True	False
+true
+
+
+1.2	can machine understand c programming
+	True	False
+false
+
+
+
+
+1.3	if is a loop
+	True	False
+false
+
+
+
+1.4	for is used to print text on screen
+	True	False
+false
+
+
+
+1.5	Is nested loop possible?
+	True	False
+true
+
+
+
+	inlist
+2.1	inlist 10 c language keyword
+printf
+scanf
+goto
+ putchar
+getch
+
+void
+switch 
+struct
+char 
+const
+do
+while
+auto
+if 
+else
+
+sizeof 
+typedef
+break
+return 
+continue
+
+
+
+
+
+2.2	inlist operator
+
+
+assignment 
+ternary
+relational
+logical
+shorthand
+arithmetic
